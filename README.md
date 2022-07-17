@@ -21,7 +21,7 @@
   - A Microservice project will be divided into many Maven modules:
     * The application module includes:
       + domain package, that contains Entity, Aggregate Root, Value Object (Domain-driven design)
-      + port.in package, that contains all of the interfaces for the [use-cases](/NAB-Challenge#iv-use-case-diagram-for-store-microservice) that we have
+      + port.in package, that contains all of the interfaces for the [use-cases]([/NAB-Challenge#iv-use-case-diagram-for-store-microservice](https://github.com/vlancer37/NAB-Challenge/blob/main/README.md#iv-use-case-diagram-for-store-microservice)) that we have
       + service package, that contains all of the implementations from the interfaces declared inside port.in package
       + port.out package, that contains all of the interfaces for the output of our microservice (dependency inversion)
     * adapter.in package contains all of the Maven modules, that implement for:
