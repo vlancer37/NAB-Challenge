@@ -41,4 +41,5 @@
 ### 1. Authen/Author:
   ![image](https://user-images.githubusercontent.com/24229179/179405534-8aab50c9-f288-4d85-b5d0-8a31a19ce268.png)
 ### 2. Add new product sequence:
-  ![image](https://user-images.githubusercontent.com/24229179/179405725-67e25bd8-2ca5-4f18-bbbe-c9da1ceaa892.png)
+  ![image](https://user-images.githubusercontent.com/24229179/179418015-d6280931-c638-488c-a799-98c39b64c2c5.png)
+
