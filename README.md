@@ -43,5 +43,5 @@
 ### 2. Add new product sequence:
   ![image](https://user-images.githubusercontent.com/24229179/179418015-d6280931-c638-488c-a799-98c39b64c2c5.png)
 ## IV. Use-case diagram for store microservice:
-  ![image](https://user-images.githubusercontent.com/24229179/179418997-62f5578a-380a-4ff1-8159-d08eea7e4221.png)
+  ![image](https://user-images.githubusercontent.com/24229179/179579841-39202623-ac78-425e-93e4-f02b5a1570a1.png)
 
